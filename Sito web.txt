@@ -1,0 +1,18 @@
+https://github.com/italia/design-scuole-pagine-statiche
+Prendi parte novità - Le notizie - Notizia
+
+Quello già scaricato è in Handlebars
+
+https://github.com/yihui/hugo-xmag
+Non bellissimo ma semplice (guarda la prima notizia)
+
+https://github.com/godofredoninja/Hodor-AMP-Ghost
+solo HTML
+
+GitHub student --> collabora con Mosco --> Fork --> clone(prima volta)-pull-commit-push
+(chiedi a chatgpt per login)
+
+
+git add .
+git commit -m "messaggio"
+git push
